@@ -36,3 +36,5 @@ collections:
 markdown: kramdown
 kramdown:
   auto_ids: false
+
+theme: jekyll-theme-slate

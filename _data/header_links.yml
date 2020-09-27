@@ -3,10 +3,6 @@
   shortname: Bonus
   path:      specials.html
   local:     true
-- name:      Transcript Source Index
-  shortname: Sources
-  path:      sources.html
-  local:     true
 - name:      Site News
   shortname: News
   path:      news.html

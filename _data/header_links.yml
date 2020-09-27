@@ -1,15 +1,11 @@
 ---
-- name:      Special Episodes - Q&A, Contest Winners, Etc.
-  shortname: Specials
+- name:      Bonus Episodes
+  shortname: Bonus
   path:      specials.html
   local:     true
-- name:      Unofficial Transcript Source Index
+- name:      Transcript Source Index
   shortname: Sources
   path:      sources.html
-  local:     true
-- name:      List of Incomplete Transcripts
-  shortname: Incomplete
-  path:      incomplete.html
   local:     true
 - name:      Site News
   shortname: News
